@@ -1,0 +1,12 @@
+{
+	"name": "2KEY",
+	"vendorId": "0x854B",
+	"productId": "0x214B",
+	"lighting": {
+		"extends": "qmk_rgblight"
+	},
+	"matrix": { "rows": 1, "cols": 2 },
+	"layouts": {
+		"keymap": [["0,0", "0,1"]]
+	}
+}
